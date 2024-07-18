@@ -1,0 +1,11 @@
+<Doctyphtml>
+       <HTML>
+                 <head>
+                   <meta charset="utr-8">
+                   <title>papa diop cake</title>
+                <head>
+                <bady>
+                    <h1>formation informatique </h1>
+                     <p>burotique</p><br>
+                <bady>
+       <HTML>
